@@ -243,14 +243,42 @@ __OVERLAY__
       that is about 10 real metres per tile: a house becomes one tile, and the city stops being legible.</p>
     </div>
     <div>
-      <p>The fix is the fidelity setting you already chose. <strong>Recognizable but rearranged</strong>
-      means the lobes get folded onto the corridor's axis rather than reproduced in place — the Arboretum
-      swings from south-west to west, extending the strip instead of widening it. Real bearings bend;
-      identity, adjacency and travel order survive.</p>
-      <p>This is standard practice for the genre: Johto renders Kansai's ~10,000 mi² in 0.05 mi² of map by
-      keeping about thirty places and discarding the space between them.</p>
+      <p>Better than folding: keep the corridor tight and reach the lobes as <strong>off-grid maps</strong> —
+      separate areas entered through a transition rather than stitched into the same grid. Picnic Point by
+      boat from the Union; the Arboretum by paddling Monona Bay into Wingra Creek.</p>
+      <p>Gold/Silver does exactly this. Measured from the disassembly, Johto and Kanto are two
+      <em>disconnected</em> components of the map graph — 31 and 35 outdoor maps that never touch, joined
+      only through cave interiors. Off-grid lobes are native to the engine, and they cost the corridor
+      no area at all.</p>
     </div>
   </div>
+</section>
+
+<section>
+  <h2>Proposed gym siting</h2>
+  <p>A first pass, tuned against Gold/Silver's own curve — Johto's aces run
+  <span class="mono">9 · 16 · 20 · 25 · 30 · 35 · 31 · 40</span>, with the deliberate regression at seven.
+  The Capitol is deliberately <em>not</em> a gym: four equal wings make it the League, one wing per Elite
+  Four member, with the Champion on the dome observation deck.</p>
+  <div class="scroller">
+  <table>
+    <thead><tr><th>#</th><th>Site</th><th>Type</th><th>Ace</th><th>Grants</th><th>Why there</th></tr></thead>
+    <tbody>
+      <tr><td class="n">1</td><td>Bascom Hall</td><td>Flying</td><td class="n">Lv 9</td><td>Flash</td><td>The only real hill; trainers tier by altitude</td></tr>
+      <tr><td class="n">2</td><td>Overture Center</td><td>Fairy</td><td class="n">Lv 16</td><td>Cut</td><td>Five nested halls; first hard gate</td></tr>
+      <tr><td class="n">3</td><td>Capitol Square market</td><td>Normal</td><td class="n">Lv 20</td><td>Strength (permission)</td><td>The Whitney spike, sited where a stuck player has the most alternatives</td></tr>
+      <tr><td class="n">4</td><td>Central Library</td><td>Ghost</td><td class="n">Lv 25</td><td>Surf</td><td>Normal→Ghost two blocks apart; opens the map at the hub</td></tr>
+      <tr><td class="n">5</td><td>James Madison Park</td><td>Fighting</td><td class="n">Lv 30</td><td>Portage</td><td>Boathouse and courts; north lane of a two-lane branch</td></tr>
+      <tr><td class="n">6</td><td>Monona Terrace</td><td>Psychic</td><td class="n">Lv 35</td><td>— none —</td><td>The Jasmine slot: refuses to battle until you fetch the 1938 drawings</td></tr>
+      <tr><td class="n">7</td><td>Tenney Park locks</td><td>Ice</td><td class="n">Lv 31</td><td>Whirlpool</td><td>The Pryce regression; frozen lagoon as sliding-ice maze</td></tr>
+      <tr><td class="n">8</td><td>Machinery Row</td><td>Steel</td><td class="n">Lv 40</td><td>Waterfall</td><td>Approach consumes every tool you own — the road to Clair</td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>Constraints held: no starter type gets a gym, no two adjacent gyms share an answer, one new biome per
+  gym, and settlement scale zig-zags village → strip → metropolis → single building → neighbourhood →
+  megastructure → village → district. Note this puts <strong>gyms 7 and 8 outside the current corridor</strong>,
+  at Tenney and Machinery Row — the strongest argument yet for extending east.</p>
 </section>
 
 <section>
@@ -279,8 +307,8 @@ __OVERLAY__
     something on the west end.</li>
     <li><strong>Does the Capitol become the final gym or the villain's tower?</strong> It cannot be both, and
     the answer reorders the whole progression.</li>
-    <li><strong>Where does the fold seam go?</strong> Folding the Arboretum lobe west means choosing which
-    real adjacency to break — Vilas-to-Wingra, or Wingra-to-Arboretum.</li>
+    <li><strong>Which lobes are off-grid, and what's the transition?</strong> Boat, trail pass, or lock
+    passage each imply a different badge gate and a different point in the progression.</li>
     <li><strong>Winter.</strong> Both lakes freeze solid and locals walk across them. That is a traversal
     mechanic Pokémon has never had, and it is sitting right there.</li>
   </ul>
