@@ -1,0 +1,1 @@
+[out:json][timeout:90];(way["leisure"="park"]["name"](43.030,-89.460,43.115,-89.320);relation["leisure"="park"]["name"](43.030,-89.460,43.115,-89.320););out geom;

@@ -1,0 +1,202 @@
+{
+ "viewW": 1000,
+ "viewH": 750,
+ "mPerUnit": 10,
+ "extent": [
+  -5200,
+  4800,
+  -4300,
+  3200
+ ],
+ "core": [
+  [
+   299.4,
+   465.7
+  ],
+  [
+   638.7,
+   364.5
+  ],
+  [
+   583.5,
+   179.4
+  ],
+  [
+   244.2,
+   280.6
+  ]
+ ],
+ "coreArea": 2.64,
+ "annex": {
+  "Lakeshore Preserve / Picnic Point": {
+   "pts": [
+    [
+     160.0,
+     235.0
+    ],
+    [
+     295.0,
+     235.0
+    ],
+    [
+     295.0,
+     130.0
+    ],
+    [
+     160.0,
+     130.0
+    ]
+   ],
+   "area": 0.55
+  },
+  "Arboretum / Lake Wingra / Vilas": {
+   "pts": [
+    [
+     130.0,
+     710.0
+    ],
+    [
+     330.0,
+     710.0
+    ],
+    [
+     330.0,
+     390.0
+    ],
+    [
+     130.0,
+     390.0
+    ]
+   ],
+   "area": 2.47
+  }
+ },
+ "landmarks": {
+  "Capitol Square": [
+   519.9,
+   319.6
+  ],
+  "Monona Terrace": [
+   549.4,
+   354.4
+  ],
+  "State Street": [
+   452.5,
+   312.2
+  ],
+  "Memorial Union": [
+   396.6,
+   299.4
+  ],
+  "Bascom Hall": [
+   352.7,
+   309.3
+  ],
+  "Union South": [
+   325.1,
+   354.6
+  ],
+  "Camp Randall": [
+   288.9,
+   372.3
+  ],
+  "Picnic Point": [
+   268.1,
+   152.4
+  ],
+  "Henry Vilas Zoo": [
+   303.5,
+   412.5
+  ],
+  "Lake Wingra": [
+   211.0,
+   536.0
+  ],
+  "UW Arboretum": [
+   190.5,
+   675.3
+  ],
+  "James Madison Park": [
+   583.5,
+   257.9
+  ],
+  "Tenney Park": [
+   694.2,
+   155.9
+  ],
+  "Yahara Locks": [
+   711.9,
+   143.0
+  ],
+  "Schenk's Corners": [
+   818.4,
+   179.7
+  ],
+  "Olbrich Gardens": [
+   909.3,
+   142.9
+  ],
+  "Olin Park": [
+   560.7,
+   536.0
+  ],
+  "Turville Point": [
+   608.6,
+   567.1
+  ]
+ },
+ "parkLabels": [
+  [
+   "Yahara Place",
+   [
+    783.0,
+    181.0
+   ]
+  ],
+  [
+   "Brittingham",
+   [
+    427.0,
+    442.2
+   ]
+  ]
+ ],
+ "presLabels": [
+  [
+   "Lakeshore Nature Preserve",
+   [
+    192.0,
+    240.3
+   ]
+  ],
+  [
+   "Wingra Woods",
+   [
+    175.9,
+    627.7
+   ]
+  ],
+  [
+   "Muir Woods",
+   [
+    350.3,
+    295.7
+   ]
+  ],
+  [
+   "Curtis Prairie",
+   [
+    150.4,
+    718.2
+   ]
+  ],
+  [
+   "UW Arboretum",
+   [
+    231.0,
+    612.6
+   ]
+  ]
+ ],
+ "scaleBarUnits": 160.9
+}
