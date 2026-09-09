@@ -1,0 +1,108 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Core corridor",
+    "area_mi2": 2.64,
+    "rotation_deg": 16.6
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -89.41133,
+       43.061615
+      ],
+      [
+       -89.369604,
+       43.070702
+      ],
+      [
+       -89.376389,
+       43.087327
+      ],
+      [
+       -89.418115,
+       43.078241
+      ],
+      [
+       -89.41133,
+       43.061615
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lakeshore Preserve / Picnic Point",
+    "area_mi2": 0.55
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -89.428472,
+       43.082336
+      ],
+      [
+       -89.41187,
+       43.082336
+      ],
+      [
+       -89.41187,
+       43.091768
+      ],
+      [
+       -89.428472,
+       43.091768
+      ],
+      [
+       -89.428472,
+       43.082336
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Arboretum / Lake Wingra / Vilas",
+    "area_mi2": 2.47
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       -89.432161,
+       43.039666
+      ],
+      [
+       -89.407566,
+       43.039666
+      ],
+      [
+       -89.407566,
+       43.068412
+      ],
+      [
+       -89.432161,
+       43.068412
+      ],
+      [
+       -89.432161,
+       43.039666
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

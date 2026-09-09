@@ -182,9 +182,11 @@ doesn't give free. Superseded.)*
 ```
 survey-map.html      the published survey map, self-contained (fonts from Google Fonts)
 design-brief.md      first-pass design proposal: biomes, 8 sited gyms, traversal, risks
+geographic-bounds.md corner coordinates, bboxes and WKT for the corridor and both annexes
 data/
   *.json.gz          raw OSM extracts: water, park, road, named (Arboretum + Lakeshore Preserve)
   surveys.json       153 researched landmarks with character notes and per-site game ideas
+  footprint.geojson  the corridor and annex polygons, ready for any GIS or map tool
   q_*.ql             the exact Overpass queries used
   meta.json          derived SVG-space geometry: footprint corners, landmark pins, labels
   fetch.sh           re-pull the OSM data if needed
